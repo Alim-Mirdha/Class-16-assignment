@@ -64,13 +64,15 @@ p{
 /* banner area end */
 /* teem area */
 .teem-area{
-    background-color: #ddd;
+    background-color: #BAC1F3;
 }
 .teem-item {
     text-align: center;
     border: none !important;
     padding: 78px;
-   
+}
+.about-content p {
+    margin-bottom: 5px;
 }
 .card {
     background-color: transparent;
@@ -101,6 +103,10 @@ section.about h1 {
 }
 /* about area end here */
 /* contact area */
+.contact h1 {
+    font-size: 46px;
+    font-weight: 400;
+}
 .form-control:focus {
     box-shadow: none;
 }
